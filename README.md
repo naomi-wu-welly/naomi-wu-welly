@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Engineering Zoomcamp 2024](https://github.com/naomi-wu-welly/de-zoomcamp-24)
 
-- 🌱 I’m currently learning **IaS**
+- 🌱 I’m currently learning **IaC**
 
 - 📫 How to reach me **naomi.welly@gmail.com**
 
